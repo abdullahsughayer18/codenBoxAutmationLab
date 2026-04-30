@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="9" total="9" passed="0" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="٢٠٢٦-٠٤-٠١T٢٠:٢٤:٢١ TRT" name="Default suite" finished-at="٢٠٢٦-٠٤-٠١T٢٠:٢٤:٣٧ TRT" duration-ms="15943">
+    <groups>
+    </groups>
+    <test started-at="٢٠٢٦-٠٤-٠١T٢٠:٢٤:٢١ TRT" name="Default test" finished-at="٢٠٢٦-٠٤-٠١T٢٠:٢٤:٣٧ TRT" duration-ms="15943">
+      <class name="Form">
+        <test-method is-config="true" signature="Mysetup()[pri:0, instance:Form@7a560583]" started-at="٢٠٢٦-٠٤-٠١T٢٠:٢٤:٢٢ TRT" name="Mysetup" finished-at="٢٠٢٦-٠٤-٠١T٢٠:٢٤:٣٧ TRT" duration-ms="15848" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Mysetup -->
+        <test-method is-config="true" signature="AfterMyTest()[pri:0, instance:Form@7a560583]" started-at="٢٠٢٦-٠٤-٠١T٢٠:٢٤:٣٧ TRT" name="AfterMyTest" finished-at="٢٠٢٦-٠٤-٠١T٢٠:٢٤:٣٧ TRT" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMyTest -->
+      </class> <!-- Form -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
